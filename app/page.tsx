@@ -60,7 +60,7 @@ export default function HomePage() {
     <main>
       <header className="masthead">
         <a className="brand" href="#top" aria-label="Macchi connected intelligence, return to top">
-          <Image src="/deltapoint-logo.webp" alt="DeltaPoint Partners" width={58} height={58} priority />
+          <Image src="/deltapoint-partners-logo.png" alt="DeltaPoint Partners" width={156} height={104} priority />
           <span><b>MACCHI</b><small>Connected Intelligence</small></span>
         </a>
         <nav aria-label="Proposal sections">
